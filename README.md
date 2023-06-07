@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamssg05
 - 👀 I’m interested in ...Data Science and Machine Learning
-- 🌱 I’m currently learning ...Power BI
+- 🌱 I’m currently learning ...Flask and Fast API
 - 📫 How to reach me ...Instgram: @iamssg05
 
 <!---
